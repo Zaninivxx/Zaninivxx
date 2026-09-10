@@ -1,43 +1,75 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Zanini animated profile header" />
+# 👨🏻‍💻 Victor Zanini
 
-<br/>
+### Full Stack Developer • Automation • SaaS
 
-<sub>Building useful products with clean interfaces and practical automation.</sub>
+I build practical software, automations and digital products focused on solving real problems with clean interfaces and simple workflows.
+
+<p>
+  <a href="https://github.com/Zaninivxx">
+    <img src="https://img.shields.io/badge/GitHub-Zaninivxx-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:victorzanini47@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 </div>
 
-<br/>
+---
 
-<h2>Direction</h2>
+## About me
 
-I build <b>web applications, automations and software products</b> focused on turning repetitive or confusing workflows into something clear, fast and usable.
+I'm focused on turning repetitive work, operational bottlenecks and ideas into useful software.
 
-```text
-idea → system → interface → automation → product
-```
+- Building **web apps, SaaS products and internal systems**
+- Creating **automations with Python and APIs**
+- Exploring better ways to combine **product, design and engineering**
+- Interested in software that feels **simple on the surface and solid underneath**
 
-<br/>
+> **Build useful things. Keep them simple. Make them work well.**
 
-<h2>Selected work</h2>
+---
+
+## Languages & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,html,css,git,github,vscode&perline=11" alt="Tech Stack" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-Web%20Apps-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-Frontend-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" />
+
+</div>
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Web Products
-Modern interfaces, SaaS experiences and internal tools built around real workflows.
+### ⚡ [Fyvi](https://github.com/Zaninivxx/Fyvi)
 
-`TypeScript` `React` `Node.js`
+Web project focused on digital products, business solutions and modern user experiences.
+
+**Focus:** Web • Product • Frontend
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Automation
-Tools that reduce repetitive work, connect systems and make operations faster.
+### 🧩 [Painel Fyvi](https://github.com/Zaninivxx/painel_fyvi)
 
-`Python` `APIs` `Automation`
+Internal panel concept for operational workflows, management and product administration.
+
+**Focus:** Dashboard • SaaS • Internal tools
 
 </td>
 </tr>
@@ -45,73 +77,72 @@ Tools that reduce repetitive work, connect systems and make operations faster.
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Business Tools
-Operational dashboards, spreadsheet automation and data-driven internal systems.
+### 📊 [Mago do Excel](https://github.com/Zaninivxx/mago_do_excel)
 
-`Python` `Excel` `Data`
+Automation-oriented project focused on spreadsheet workflows and productivity.
+
+**Focus:** Python • Excel • Automation
 
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Systems
-Focused products designed to solve one problem well.
+### 🚧 What I'm building next
 
-`SaaS` `Integrations` `UX`
+More automation, SaaS experiments and tools designed around real operational problems.
+
+**Focus:** Systems • APIs • Product Engineering
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<h2>Stack</h2>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,html,css,git,github,vscode&perline=11" alt="Tech stack" />
-</div>
-
-<br/>
-
-<h2>GitHub signal</h2>
+## GitHub Statistics
 
 <div align="center">
 
-<img
-  height="165"
-  src="https://streak-stats.demolab.com?user=Zaninivxx&hide_border=true&background=00000000&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=CBD5E1"
-  alt="GitHub streak"
+<img height="170"
+  src="https://github-readme-stats.vercel.app/api?username=Zaninivxx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github"
+  alt="Victor Zanini GitHub stats"
+/>
+
+<img height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaninivxx&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+  alt="Most used languages"
 />
 
 <br/><br/>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Zaninivxx&bg_color=00000000&color=94A3B8&line=3B82F6&point=60A5FA&area=true&area_color=1D4ED8&hide_border=true"
-  width="96%"
-  alt="Contribution activity graph"
+  src="https://streak-stats.demolab.com?user=Zaninivxx&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=6E7681&currStreakNum=C9D1D9&sideNums=C9D1D9"
+  alt="GitHub streak"
 />
 
 </div>
 
-<br/>
+---
 
-<h2>Contribution motion</h2>
+## Contribution Activity
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zaninivxx/Zaninivxx/gh-pages/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zaninivxx/Zaninivxx/gh-pages/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Zaninivxx/Zaninivxx/gh-pages/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Zaninivxx/Zaninivxx/gh-pages/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-### Build things people actually want to use.
+### Always building something.
 
-<sub>Code is only interesting when it turns into something useful.</sub>
+`Web Apps` • `Automation` • `SaaS` • `Systems`
+
+<sub>São Paulo, Brazil 🇧🇷</sub>
 
 </div>
